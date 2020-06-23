@@ -1,5 +1,5 @@
--- Infix
+-- Prefix/Polish
 myplus x y = (+) x y
 
--- Prefix/Polish
+-- Infix
 mydiv x y = x `div` y
